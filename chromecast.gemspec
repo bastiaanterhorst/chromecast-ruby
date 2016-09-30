@@ -26,6 +26,6 @@ Gem::Specification.new do |s|
   s.homepage    = "http://robzon.pl/"
   s.license     = "MIT"
 
-  s.add_runtime_dependency 'ruby-tls', '~> 1.0'
+  s.add_runtime_dependency 'ruby-tls', '~> 2.0'
   s.add_runtime_dependency 'protobuf', '~> 3.3'
 end
